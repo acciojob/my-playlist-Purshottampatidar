@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .main-container{
-	background-color: rgb(204, 204, 204)
+	background-color: rgb(204, 204, 204);
 }
 .list{
 	list-style-type:none;
@@ -17,6 +17,14 @@
 	width:100%;
 	background-color: rgb(255, 255, 255);
 	padding:10px;
+    background-size:contain;
+}
+
+.player_two{
+	width:100%;
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+    background-size:contain;
 }
 
 
